@@ -1,5 +1,4 @@
-Current undergraduate student at UC San Diego pursuing a Bachelors of Science in Bioinformatics with a minor in Computer Science. Also currently working as an undergraduate researcher at Wahlin Lab, where I use Python and R to create pipelines for data analysis!
-
+Current graduate student at UC San Diego putting the finishing touches on my thesis, focused on multi-omic analysis of induced retinal neurons! Doing research at the Wahlin Lab, where I use pipettes to prep samples for sequencing, and Python to analyze them (and R and commandline when needed). 
 
 
 
