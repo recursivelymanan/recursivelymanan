@@ -1,5 +1,4 @@
-Current graduate student at UC San Diego putting the finishing touches on my thesis, focused on multi-omic analysis of induced retinal neurons! Doing research at the Wahlin Lab, where I use pipettes to prep samples for sequencing, and Python to analyze them (and R and commandline when needed). 
-
+UC San Diego M.S. graduate. During my degree, I specialized in NGS processing and analysis of DNA and RNA sourced from various induced retinal cell types. Interested in all things data analysis, and skilled in many NGS platforms (single-cell, long-read, ATAC, ChIP ...). On this GitHub page I have some analysis projects that I'm working on, as well as a few presentations I've done at conferences at UCSD during my undergrad. 
 
 
 <!---
